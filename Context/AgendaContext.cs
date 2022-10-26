@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using mvc.Models;
+#nullable disable
 
 namespace mvc.Context
 {
